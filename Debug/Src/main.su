@@ -1,0 +1,13 @@
+../Src/main.c:28:6:delay_ms	24	static
+../Src/main.c:43:6:delay_us	16	static
+../Src/main.c:97:6:PIN_MODE	32	static
+../Src/main.c:129:6:DIGITAL_WRITE	16	static
+../Src/main.c:147:5:DIGITAL_READ	16	static
+../Src/main.c:152:6:peripherals_init	8	static
+../Src/main.c:174:6:send	16	static
+../Src/main.c:191:6:send_command	16	static
+../Src/main.c:196:6:send_data	24	static
+../Src/main.c:208:6:set_cursor	24	static
+../Src/main.c:223:6:clear_screen	8	static
+../Src/main.c:234:6:scroll_text	16	static
+../Src/main.c:253:5:main	8	static
